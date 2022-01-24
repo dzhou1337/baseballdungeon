@@ -1,0 +1,7 @@
+Human
+Goblin
+Elf
+Dwarf
+Orc
+Wizard
+Golem
