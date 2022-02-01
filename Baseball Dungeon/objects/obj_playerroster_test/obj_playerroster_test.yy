@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_playergenerator",
-    "path": "sprites/spr_playergenerator/spr_playergenerator.yy",
+    "name": "spr_rostertester",
+    "path": "sprites/spr_rostertester/spr_rostertester.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
@@ -32,7 +32,7 @@
     "path": "folders/Objects/test objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_playergenerator",
+  "name": "obj_playerroster_test",
   "tags": [],
   "resourceType": "GMObject",
 }
